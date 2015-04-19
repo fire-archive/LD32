@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D27FB6C7-4AC5-D8B3-2341-1E827B9A242C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LD32",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
